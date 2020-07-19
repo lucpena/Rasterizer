@@ -1,5 +1,5 @@
 # Rasteriser
-A Rasterizer made in C++ that loads .obj 3D models. I made this following the awesome tutorial of [Computer Graphics from 'ssloy'](https://github.com/ssloy/tinyrenderer/wiki). A brief study on how OpenGL works under his hood. Here are some prints of the actual state:
+A Rasterizer made in C++ that loads .obj 3D models. I made this following the awesome tutorial of [Computer Graphics from 'ssloy'](https://github.com/ssloy/tinyrenderer/wiki). A brief study to understand how OpenGL works. Here are some prints of the actual state:
 
 # Models Rendered
 ![Head](https://github.com/lucpena/Rasterizer/blob/master/img/head.png)
